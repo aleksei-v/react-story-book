@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.928a5e3b.css",
-    "main.js": "/react-homework-template/static/js/main.093dc954.js",
-    "static/media/page-cover.png": "/react-homework-template/static/media/page-cover.9d986e1f921680ae53d2.png",
-    "static/media/back-book.jpg": "/react-homework-template/static/media/back-book.ddb6e7887063c5ef4972.jpg",
-    "static/media/Mariupol-Regular.otf": "/react-homework-template/static/media/Mariupol-Regular.eaa101b7e5b85db26066.otf",
-    "static/media/image-third.jpg": "/react-homework-template/static/media/image-third.b11562a35ce9363d9d9f.jpg",
-    "static/media/image-first.jpg": "/react-homework-template/static/media/image-first.ecef26539616cc387deb.jpg",
-    "static/media/image-fourth.jpg": "/react-homework-template/static/media/image-fourth.1138e3e4588257687305.jpg",
-    "static/media/image-eighth.jpg": "/react-homework-template/static/media/image-eighth.99cad906a8f51de2f12d.jpg",
-    "static/media/image-second.jpg": "/react-homework-template/static/media/image-second.8d0945e5ec81e36e5774.jpg",
-    "static/media/image-fifth.jpg": "/react-homework-template/static/media/image-fifth.88aa029f90cfbed3831f.jpg",
-    "static/media/image-sixth.jpg": "/react-homework-template/static/media/image-sixth.3973d384b4b7a621e0d5.jpg",
-    "static/media/image-seventh.jpg": "/react-homework-template/static/media/image-seventh.eb657853399a289a9dd5.jpg",
-    "static/media/main-background.jpg": "/react-homework-template/static/media/main-background.f8726307f9c8c82683c6.jpg",
-    "index.html": "/react-homework-template/index.html",
-    "main.928a5e3b.css.map": "/react-homework-template/static/css/main.928a5e3b.css.map",
-    "main.093dc954.js.map": "/react-homework-template/static/js/main.093dc954.js.map"
+    "main.css": "/react-story-book/static/css/main.758c5eca.css",
+    "main.js": "/react-story-book/static/js/main.10a568e9.js",
+    "static/media/page-cover.png": "/react-story-book/static/media/page-cover.9d986e1f921680ae53d2.png",
+    "static/media/back-book.jpg": "/react-story-book/static/media/back-book.ddb6e7887063c5ef4972.jpg",
+    "static/media/Mariupol-Regular.otf": "/react-story-book/static/media/Mariupol-Regular.eaa101b7e5b85db26066.otf",
+    "static/media/image-third.jpg": "/react-story-book/static/media/image-third.b11562a35ce9363d9d9f.jpg",
+    "static/media/image-first.jpg": "/react-story-book/static/media/image-first.ecef26539616cc387deb.jpg",
+    "static/media/image-fourth.jpg": "/react-story-book/static/media/image-fourth.1138e3e4588257687305.jpg",
+    "static/media/image-eighth.jpg": "/react-story-book/static/media/image-eighth.99cad906a8f51de2f12d.jpg",
+    "static/media/image-second.jpg": "/react-story-book/static/media/image-second.8d0945e5ec81e36e5774.jpg",
+    "static/media/image-fifth.jpg": "/react-story-book/static/media/image-fifth.88aa029f90cfbed3831f.jpg",
+    "static/media/image-sixth.jpg": "/react-story-book/static/media/image-sixth.3973d384b4b7a621e0d5.jpg",
+    "static/media/image-seventh.jpg": "/react-story-book/static/media/image-seventh.eb657853399a289a9dd5.jpg",
+    "static/media/main-background.jpg": "/react-story-book/static/media/main-background.f8726307f9c8c82683c6.jpg",
+    "index.html": "/react-story-book/index.html",
+    "main.758c5eca.css.map": "/react-story-book/static/css/main.758c5eca.css.map",
+    "main.10a568e9.js.map": "/react-story-book/static/js/main.10a568e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.928a5e3b.css",
-    "static/js/main.093dc954.js"
+    "static/css/main.758c5eca.css",
+    "static/js/main.10a568e9.js"
   ]
 }
